@@ -1,0 +1,3 @@
+C:/ProiectSDA/cmake-build-debug/CMakeFiles/ProiectSDA.dir
+C:/ProiectSDA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/ProiectSDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
